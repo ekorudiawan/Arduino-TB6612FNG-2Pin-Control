@@ -1,1 +1,1 @@
-# Arduino-TB6612FNG-2Pin-Control
+# TB6612FNG_2Pin_Control
